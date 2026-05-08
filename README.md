@@ -1,7 +1,6 @@
 # BEE2041 Empirical Project: Macroeconomic Indicators and the Stock Market
 
 ## Project Overview
-This repository contains the final empirical project for the Data Science in Economics (BEE2041) course. 
 
 The project is formatted as a data-driven blog post that explores the structural relationship between macroeconomic indicators (such as GDP growth, unemployment, inflation, and interest rates) and the stock market between the volatile period of 2000 and 2008. The analysis is conducted through the lens of historical materialism, examining cycles of accumulation, the centralisation of capital, and the labor market.
 
@@ -13,7 +12,7 @@ The project is formatted as a data-driven blog post that explores the structural
 
 ## How to Replicate
 
-To replicate this work and view the analysis from scratch, please follow these steps:
+To replicate this work and view the analysis from scratch, follow these steps:
 
 1. **Clone the repository:**
    Download or clone this repository to your local machine to ensure you have both the notebook and the dataset in the same directory.
