@@ -1,4 +1,3 @@
-# BEE2041 Empirical Project: Macroeconomic Indicators and the Stock Market
 
 ## Project Overview
 
